@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/MakerPrelaunch/static/css/main.d47fde44.css",
+    "main.js": "/MakerPrelaunch/static/js/main.60e62da9.js",
+    "static/js/787.1afa3cba.chunk.js": "/MakerPrelaunch/static/js/787.1afa3cba.chunk.js",
+    "static/media/illustration-hero-left.svg": "/MakerPrelaunch/static/media/illustration-hero-left.c0c2c579053859dc7533.svg",
+    "static/media/illustration-hero-right.svg": "/MakerPrelaunch/static/media/illustration-hero-right.a020112c2efe06d8697f.svg",
+    "static/media/illustration-hero-mobile.png": "/MakerPrelaunch/static/media/illustration-hero-mobile.260dcd4e89450c30bbbf.png",
+    "static/media/bg-footer-squiggle.svg": "/MakerPrelaunch/static/media/bg-footer-squiggle.16bec34032cd689d4570.svg",
+    "static/media/illustration-passions.svg": "/MakerPrelaunch/static/media/illustration-passions.388956614c2826f15a4259e83d47e94a.svg",
+    "static/media/bg-hero-squiggle.svg": "/MakerPrelaunch/static/media/bg-hero-squiggle.5178f01998fd202cca55.svg",
+    "static/media/illustration-financial-freedom.svg": "/MakerPrelaunch/static/media/illustration-financial-freedom.831f93a520ba1a75fafcc6e172b36c73.svg",
+    "static/media/illustration-work-anywhere.svg": "/MakerPrelaunch/static/media/illustration-work-anywhere.ca73b1b223bfa24fe1d3c75aeb40e8b6.svg",
+    "static/media/logo.svg": "/MakerPrelaunch/static/media/logo.21a1ccfc934006148b9bd65e606fdfd2.svg",
+    "static/media/illustration-lifestyle.svg": "/MakerPrelaunch/static/media/illustration-lifestyle.91a086882568d740383f98ef195a58a8.svg",
+    "static/media/icon-paid.svg": "/MakerPrelaunch/static/media/icon-paid.690d7aee87a8762b36509fe74be85f99.svg",
+    "index.html": "/MakerPrelaunch/index.html",
+    "static/media/icon-free.svg": "/MakerPrelaunch/static/media/icon-free.3062eb2c2337f201e0f2ea1fc420a9d6.svg",
+    "static/media/icon-scroll.svg": "/MakerPrelaunch/static/media/icon-scroll.593cee62ea6d7ce062677c3308992825.svg",
+    "static/media/icon-check.svg": "/MakerPrelaunch/static/media/icon-check.351405aba627e8b31e6d4b2b9ce4716f.svg",
+    "main.d47fde44.css.map": "/MakerPrelaunch/static/css/main.d47fde44.css.map",
+    "main.60e62da9.js.map": "/MakerPrelaunch/static/js/main.60e62da9.js.map",
+    "787.1afa3cba.chunk.js.map": "/MakerPrelaunch/static/js/787.1afa3cba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d47fde44.css",
+    "static/js/main.60e62da9.js"
+  ]
+}
